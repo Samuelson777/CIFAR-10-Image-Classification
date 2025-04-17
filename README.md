@@ -21,9 +21,9 @@ The CNN model consists of the following layers:
 The model achieves a test accuracy of approximately 70.31%. Visualizations of predictions will be displayed after training.(Check the visualizations in ipynb file)
 
 ## Future Work
-Experiment with more complex architectures (e.g., ResNet, VGG).
-Implement data augmentation techniques to improve model robustness.
-Fine-tune hyperparameters for better performance.
+- Experiment with more complex architectures (e.g., ResNet, VGG).
+- Implement data augmentation techniques to improve model robustness.
+- Fine-tune hyperparameters for better performance.
 
 ## Installation
 
