@@ -25,6 +25,9 @@ The model achieves a test accuracy of approximately 70.31%. Visualizations of pr
 - Implement data augmentation techniques to improve model robustness.
 - Fine-tune hyperparameters for better performance.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/CIFAR-10-Image-Classification/blob/main/LICENSE) file for details.
+
 ## Installation
 
 To run this project, you need to have Python installed on your machine. You can install the required libraries using pip:
